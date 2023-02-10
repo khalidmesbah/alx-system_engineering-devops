@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwx 755 .
+chmod -R a+X
