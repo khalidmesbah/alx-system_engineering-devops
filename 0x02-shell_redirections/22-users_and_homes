@@ -1,0 +1,2 @@
+#!/bin/bash
+awk -F: ' == /bin/false {print :}' /etc/passwd
